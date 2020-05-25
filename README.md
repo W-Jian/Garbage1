@@ -1,2 +1,2 @@
-# Garbage1
+# Garbage
 Test github
